@@ -7,7 +7,7 @@ class Main {
                 sum = sum + Integer.parseInt(String.valueOf(s.charAt(i)));
             }
         }
-        System.out.print("Total Sum : " + sum);
+        System.out.print("Sum of integers in a string: " + sum);
     }
 }
 //Output : Total Sum : 39
